@@ -1,2 +1,7 @@
-# react-js-quick-food-delivery-website
-🎉 🍕 Food delivery website with React.Js, like foodpanda 🍻 ❤ Demo link: https://react-quick-food.firebaseapp.com/
+✨ Note: This is an opensource Web Application for Food Devlivery.
+
+Live demo
+Getting Started
+Install dependencies by running yarn or npm install.
+Run yarn start or npm run start to start the local development server.
+😎 That's it! You're ready to start building awesome application.
